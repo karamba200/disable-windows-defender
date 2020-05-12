@@ -1,1 +1,5 @@
-# disable-windows-defender
+# Отключение Защитника Windows
+
+1. Отключение функции "Защита от подделки"
+2. Применение файла disable_windows_defender.reg
+3. Перезагрузка
